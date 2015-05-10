@@ -3,7 +3,6 @@
     "description": "Online chat based on web sockets and ratchet php",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","backbone","ratchet", "websocket"],
-    "version": "0.0.4",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
@@ -31,8 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jones\\wschat\\": "",
-            "WSChat\\": "src"
+            "jones\\wschat\\": ""
         }
     }
 }
