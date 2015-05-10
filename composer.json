@@ -31,7 +31,8 @@
     },
     "autoload": {
         "psr-4": {
-            "jones\\wschat\\": ""
+            "jones\\wschat\\": "",
+            "WSChat\\": "src"
         }
     }
 }
